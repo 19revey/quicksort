@@ -1,8 +1,0 @@
-CC=g++
-
-main.0 : main.cpp
-	$(CC) -o main main.cpp 
-run:  main
-	$(EXEC) ./main
-clean:
-	rm main sph*	
