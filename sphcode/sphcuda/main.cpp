@@ -1,5 +1,5 @@
 // OpenGL Graphics includes                                                     
-#include <GL/glew.h>
+/*#include <GL/glew.h>
 #if defined (WIN32)
 #include <GL/wglew.h>
 #endif
@@ -11,7 +11,7 @@
   #endif
 #else
 #include <GL/freeglut.h>
-#endif
+#endif*/
 
 #include<stdio.h>
 #include<stdlib.h>
