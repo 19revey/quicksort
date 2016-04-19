@@ -8,6 +8,6 @@ sphcode/sphcuda: gpu neighbor searching (Makefile is specified for OS X 10.9.5, 
 
 
 
-under sphcode/sphcuda/ : cudasort.cu is written in cudaC and supposed to bin particles into cells with a spatial sequence, then perform 3D neighbor searching. 
+sphcode/sphcuda/ : cudasort.cu is  supposed to bin particles into cells with a spatial sequence, then perform 3D neighbor searching. 
 syms.h defines the system parameter. particle.h defines the sph fluid class. 
 
